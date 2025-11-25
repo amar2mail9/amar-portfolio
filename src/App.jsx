@@ -9,7 +9,7 @@ import Education from './components/Education.jsx';
 
 function App() {
   return (
-    <div className="min-h-screen bg-slate-800 overflow-x-hidden">
+    <div className="min-h-screen bg-slate-950 overflow-x-hidden">
       <Navbar />
       <main className="container mx-auto px-4 md:px-8 max-w-5xl">
         <Hero />
